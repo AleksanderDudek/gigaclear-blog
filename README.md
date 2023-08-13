@@ -1,3 +1,27 @@
+So originally I used create-next-app CLI. 
+My local npm config was outdated and 'corrupted' by an old commercial project where I had NPM registry set to their own artifactory.
+Thus it mixed up and I decided to create it from scratch (check GIT history).
+
+I added json-server as a meaningful mock for getting the real data.
+
+Some time afterwards I recieved the below code instructions and code template :)
+
+Quite a story.
+
+In the end I switched from styled-components to sass. I refactored a lot of code.
+
+There are still some things to work with around mobile view.
+Nevertheless this code gives a feel of what is to be expected.
+
+To run:
+
+Make sure you have node installed.
+
+1. npm install
+2. npm run j-server (for mocking api)
+3. npm run devbuild
+
+
 [![Logo](https://gc-strapi-production.s3.eu-west-2.amazonaws.com/Gigaclear_Core_Logo_Master_RGB_Orange_fc5526ff8b.svg "Logo")](Gigaclear_Logo)
 
 # Gigaclear Code Challenge - Frontend NextJs
@@ -7,37 +31,6 @@ The main objective of this challenge is to test your skills in Frontend Developm
 - Your knowledge of frameworks and other technologies
 - Your adherence to best practices
 - Your UI/UX skills
-
-## Setup
-After clone/download project execute:
-
-```
-yarn
-```
-or
-```
-npm install
-```
-
-Once modules installations finish you can start develpoment proccess by executing:
-
-```
-yarn dev
-```
-or
-```
-npm run dev
-```
-
-You can execute storybook in a second terminal
-
-```
-yarn storybook
-```
-or
-```
-npm run storybook
-```
 
 ## The Challenge
 The following [Figma](https://www.figma.com/file/6Lqq3DipyAvKRaXzHqm7os/gigaclear-frontend-challenge?node-id=0%3A1 "Figma") layout needs to be developed using Next.js based on the project skeleton we have provided.
@@ -84,3 +77,6 @@ If you have additional time, you **COULD** develop:
 
 ## Sending
 After finishing the challenge, please upload your submission to a GitHub repository; the person in charge of recruitment will let you know who to share it with.
+
+
+
