@@ -11,6 +11,7 @@ interface HomePropsInterface {
 const Home: FC<HomePropsInterface> = ({ postsList }) => {
   return (
     <Layout>
+      <h1 style={{ color: "rgba(133, 0, 0, 1)" }}>Check our latest Posts</h1>
       <PostGrid posts={postsList} />
     </Layout>
   );
@@ -19,7 +20,7 @@ const Home: FC<HomePropsInterface> = ({ postsList }) => {
 export async function getServerSideProps() {
   const response = await fetchApi;
   const postsList: PostData[] = response;
-
+  console.log(postsList);
   return {
     props: {
       postsList,

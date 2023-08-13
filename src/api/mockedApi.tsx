@@ -3,7 +3,6 @@ export const fetchApi: Promise<PostData[]> = fetch(
 ).then(function (response) {
   return response.json();
 });
-
 export const dateFormat = "dd MMM yyy";
 
 export type PostData = {

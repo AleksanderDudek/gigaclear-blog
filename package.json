@@ -11,6 +11,7 @@
     "build-storybook": "build-storybook",
     "j-server": "json-server --watch mockedData.json --port 3333",
     "debugging": "NODE_OPTIONS='--inspect' next dev",
+    "debugbuild": "npm run build && npm run debugging",
     "devbuild": "npm run build && npm run dev"
   },
   "dependencies": {

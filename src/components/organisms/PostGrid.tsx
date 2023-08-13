@@ -20,7 +20,7 @@ const PostGrid: React.FC<PostGridProps> = ({ posts }) => {
           imageUrl={post.imageUrl}
           tags={post.tags}
           date={post.date}
-          description={""}
+          description={post.description}
         />
       ))}
     </div>

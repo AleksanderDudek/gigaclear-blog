@@ -1,3 +1,5 @@
+@import ../../styles/base/vars
+
 .postWrapper
   width: auto
   padding: 15px
@@ -17,51 +19,46 @@
     text-decoration: none
 
   &:hover
-    background-color: rgba(255, 102, 0, 0.08)
+    background-color: $tagBackground
 
   @media (max-width: 768px)
     width: 100%
+    
   .tagList
     display: flex
     flex-wrap: wrap
     gap: 8px
 
     div
-      background-color: #007BFF
+      background-color: $tagBackground
       color: white
       padding: 4px 8px
       border-radius: 4px
       font-size: 14px
+      color: $tagColor
       margin-right: 8px
       margin-bottom: 8px
+      
   .postTitle
-    color: #850000
+    color: $textColor
     font-style: normal
     font-weight: 600
     font-size: 24px
     line-height: 30px
     margin-bottom: 17px
 
-  .postElementLabelsContainer
+  .postTagsContainer
     display: flex
     margin-bottom: 16px
 
-  .postTag
-    font-family: 'Inter', sans-serif
-    font-style: normal
-    font-weight: 700
-    font-size: 14px
-    display: flex
-    align-items: center
-    text-align: center
-    letter-spacing: 1px
-    color: #FF6600
-    background: rgba(255, 102, 0, 0.08)
-    border-radius: 16px
-    padding: 6px 12px
-    margin-right: 15px
+.showDesktop
+  @media (min-width: $isDesktopBreakpoint)
+    display: block
+  @media (max-width: $isMobileBreakpoint)
+    display: none
 
-    &:last-child
-      margin-right: 0
-      margin-left: auto
-
+.showMobile
+  @media (min-width: $isDesktopBreakpoint)
+    display: none
+  @media (max-width: $isMobileBreakpoint)
+    display: block
