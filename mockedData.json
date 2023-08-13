@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "slug": 1,
+      "title": "Pierwszy Post",
+      "excerpt": "To jest streszczenie pierwszego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2023-07-28",
+      "tags": ["so", "me", "do"],
+      "imageUrl": "/images/1.svg"
+    },
+    {
+      "slug": 2,
+      "title": "Drugi Post",
+      "excerpt": "To jest streszczenie drugiego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2022-12-15",
+      "tags": ["moda", "styl"],
+      "imageUrl": "/images/2.svg"
+    },
+    {
+      "slug": 3,
+      "title": "Trzeci Post",
+      "excerpt": "To jest streszczenie trzeciego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2021-09-05",
+      "tags": ["so", "me", "do"],
+      "imageUrl": "/images/3.svg"
+    },
+    {
+      "slug": 4,
+      "title": "Czwarty Post",
+      "excerpt": "To jest streszczenie czwartego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2020-11-30",
+      "tags": ["moda", "styl"],
+      "imageUrl": "/images/4.svg"
+    },
+    {
+      "slug": 5,
+      "title": "Piąty Post",
+      "excerpt": "To jest streszczenie piątego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2023-02-10",
+      "tags": ["so", "me", "do"],
+      "imageUrl": "/images/5.svg"
+    },
+    {
+      "slug": 6,
+      "title": "Szósty Post",
+      "excerpt": "To jest streszczenie szóstego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2022-07-18",
+      "tags": ["moda", "styl"],
+      "imageUrl": "/images/1.svg"
+    },
+    {
+      "slug": 7,
+      "title": "Siódmy Post",
+      "excerpt": "To jest streszczenie siódmego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2021-05-20",
+      "tags": ["moda", "styl"],
+      "imageUrl": "/images/2.svg"
+    },
+    {
+      "slug": 8,
+      "title": "Ósmy Post",
+      "excerpt": "To jest streszczenie ósmego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2020-10-08",
+      "tags": ["do", "re", "fit"],
+      "imageUrl": "/images/3.svg"
+    },
+    {
+      "slug": 9,
+      "title": "Dziewiąty Post",
+      "excerpt": "To jest streszczenie dziewiątego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2023-04-12",
+      "tags": ["so", "me", "do"],
+      "imageUrl": "/images/4.svg"
+    },
+    {
+      "slug": 10,
+      "title": "Dziesiąty Post",
+      "excerpt": "To jest streszczenie dziesiątego posta...",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien vitae neque elementum mattis nec nec tortor. Fusce auctor purus id magna laoreet, nec efficitur sem gravida. Maecenas eu sagittis mi, non aliquam erat. Nam eget odio lectus. Quisque interdum, est id suscipit venenatis, elit dolor venenatis turpis, eget consectetur neque augue eu nunc. Cras aliquam libero eget ipsum fermentum feugiat. Nulla facilisi. Vivamus mollis, erat quis tempor rhoncus, libero risus ullamcorper metus, eu facilisis lacus justo nec metus. Aliquam ac tortor ut purus malesuada consectetur eget vel nisi. Fusce quis ipsum dictum, consectetur libero id, sagittis ex. Curabitur hendrerit orci eu felis tincidunt, quis auctor odio ullamcorper.",
+      "date": "2022-01-30",
+      "tags": ["pol", "algo", "fit"],
+      "imageUrl": "/images/5.svg"
+    }
+  ]
+}
